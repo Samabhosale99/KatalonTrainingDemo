@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginUsername  AdminPassword  admin123UsernamePassword Login Forgot your password OrangeHRM OS 5.7 2005 - 2024 OrangeHRM, Inc. All rights reserved</name>
+   <tag></tag>
+   <elementGuidId>be478d17-2fc5-44c5-8dc0-9e9fb348dc4e</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_OrangeHRM/div_LoginUsername  AdminPassword  admin123UsernamePassword Login Forgot your password OrangeHRM OS 5.7 2005 - 2024 OrangeHRM, Inc. All rights reserved.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_OrangeHRM/div_LoginUsername  AdminPassword  admin123UsernamePassword Login Forgot your password OrangeHRM OS 5.7 2005 - 2024 OrangeHRM, Inc. All rights reserved.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-login-slot-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#app div >> internal:has-text=&quot;LoginUsername : AdminPassword : admin123UsernamePassword Login Forgot your passw&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>544025f7-4a97-4151-b71d-c120393067e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-login-slot-wrapper</value>
+      <webElementGuid>39dff3a6-42a5-48c9-a182-0174a6fffeec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginUsername : AdminPassword : admin123UsernamePassword Login Forgot your password? OrangeHRM OS 5.7© 2005 - 2024 OrangeHRM, Inc. All rights reserved.</value>
+      <webElementGuid>482c4582-5cf9-40af-aaf9-4c48c239eb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]</value>
+      <webElementGuid>f79e9b40-d0f2-4e10-bdee-c24b1e847eb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div</value>
+      <webElementGuid>c0cbc923-a3e6-48bc-a1bf-31db7e608d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>c0a3aacf-cbd5-481f-94b0-bb2c0de3fb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginUsername : AdminPassword : admin123UsernamePassword Login Forgot your password? OrangeHRM OS 5.7© 2005 - 2024 OrangeHRM, Inc. All rights reserved.' or . = 'LoginUsername : AdminPassword : admin123UsernamePassword Login Forgot your password? OrangeHRM OS 5.7© 2005 - 2024 OrangeHRM, Inc. All rights reserved.')]</value>
+      <webElementGuid>9882918e-6474-4edd-b291-3c336b8bfb39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CaptureScreenshot</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>248dc6d0-f46e-416a-b7ed-5e59a7e68dab</testCaseGuid>
+</TestCaseEntity>
